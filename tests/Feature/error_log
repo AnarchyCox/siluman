@@ -1,0 +1,4 @@
+[28-Aug-2024 21:49:08 UTC] PHP Fatal error:  Uncaught Error: Class 'Tests\TestCase' not found in /home/coffemix/siluman.coffemixer.com/tests/Feature/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/coffemix/siluman.coffemixer.com/tests/Feature/ExampleTest.php on line 8

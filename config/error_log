@@ -1,0 +1,8 @@
+[28-Aug-2024 21:48:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/coffemix/siluman.coffemixer.com/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/coffemix/siluman.coffemixer.com/config/app.php on line 16
+[28-Aug-2024 21:48:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/coffemix/siluman.coffemixer.com/config/auth.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/coffemix/siluman.coffemixer.com/config/auth.php on line 17
